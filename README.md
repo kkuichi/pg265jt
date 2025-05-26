@@ -1,4 +1,4 @@
-# Prediktívna analýza spotreby elektrickej energie
+# Prediktívna analýza dát v oblasti spotreby elektrickej energie
 ## Patrik Grivalský
 
 ```
