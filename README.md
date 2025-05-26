@@ -19,6 +19,7 @@ Bakalárska práca sa zameriava na prediktívnu analýzu spotreby elektrickej en
 - `LSTM_modelovanie.ipynb` – modelovanie pomocou LSTM  
 - `SARIMA_modelovanie.ipynb` – modelovanie pomocou SARIMA  
 - `XGBoost_modelovanie.ipynb` – modelovanie pomocou XGBoost
+-  README.md --> aktuálny súbor s informáciami
 
 ### Požiadavky
 
