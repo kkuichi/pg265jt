@@ -13,6 +13,20 @@ FAKULTA: Fakulta Elektrotechniky a Informatiky
 ### Abstrakt
 Bakalárska práca sa zameriava na prediktívnu analýzu spotreby elektrickej energie prostredníctvom modelovania priebehu činného výkonu v čase. Cieľom práce je porovnať presnosť troch rôznych algoritmov, Autoregressive Integrated Moving Average ako štatistického modelu, Extreme Gradient Boosting ako zástupcu algoritmov strojového učenia a Long-Short Term Memory ako model hlbokého učenia, ako aj odlišných prístupov k modelovaniu a trénovaniu. Teoretická časť sa venuje základom spotreby elektrickej energie, faktorom, ktoré ju ovplyvňujú, a významu jej predikcie. Sú predstavene vybrané štúdie z oblasti energetickej analýzy a opisujú sa metodiky spracovania dát, ako sú Proces objavovania znalosti v databázach a CRISP-DM. Súčasťou je aj prehľad algoritmov, časových radov a metrík na vyhodnotenie. Praktická časť práce zahŕňa analýzu dát, trénovanie predikčných modelov a ich následné vyhodnotenie.
 
+### Obsah repozitára
+
+- `pochopenie_dat.ipynb` – pochopenie a príprava dát  
+- `LSTM_modelovanie.ipynb` – modelovanie pomocou LSTM  
+- `SARIMA_modelovanie.ipynb` – modelovanie pomocou SARIMA  
+- `XGBoost_modelovanie.ipynb` – modelovanie pomocou XGBoost
+
+### Požiadavky
+
+1. Verzia Pythonu: 3.12.7 (testovaná verzia) alebo iná kompatibilná,  
+   stiahnuteľná z: https://www.python.org/downloads/
+2. JupyterLab  
+3. Nainštalované knižnice
+
 ### Použité knižnice
 - matplotlib => 3.9.2 (vizualizácie)
 - pandas => 2.2.2 (manipulácia a predspracovanie dát)
